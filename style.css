@@ -1,0 +1,78 @@
+/* Estilos gerais */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #eeeeee;
+    color: #3a3434;
+    width: auto;
+}
+
+/* Layout para o currículo */
+.container {
+    width: auto;
+    margin: 100px;
+    background-color: #ececec;
+    padding: 100px;
+    border-radius: 50px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para o nome */
+h1 {
+    background-color: #e29c6d;
+    font-family: 'Georgia', serif;
+    color: #311503;
+    text-align: center;
+    text-decoration: underline;
+}
+
+/* Estilo destacado para as seções */
+h2 {
+    background-color: #e29c6d;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #311503; /* Cor mais destacada */
+    border-bottom: 2px solid #d35400;
+    padding-bottom: 5px;
+    margin-top: 20px;
+}
+    
+figure{
+    text-align: center;
+}
+
+/* (Sobre) */
+#sobre {
+    font-style: italic;
+    font-weight: bold;
+}
+
+/* Estilos para listas */
+ul, dl {
+    margin-bottom: 20px;
+}
+
+/* Formatação para títulos de seções de experiência e educação */
+dt {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+dd {
+    margin-left: 20px;
+    font-style: italic;
+    font-size: 16px;
+}
+
+/* Estilo para as competências */
+ol {
+    margin-left: 20px;
+}
+
+ul, ol {
+    padding-left: 20px;
+}
+
+figure {
+    text-align: center
+}
